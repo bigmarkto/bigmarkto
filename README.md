@@ -10,21 +10,14 @@
 
 ## 👺⛩️ About me
 - ⚠️ Workin' on: **personal/college projects**
-- 🌱 Learning: **oh, well, a lot.**
+- 🌱 Learning: **gamedev & software engineering**
+- 🎲 Hobbies: **drawing, design, music, writing & watch medias**
 
 ---
 
 ## ⚙️ Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,java,c,html,css" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marktom&show_icons=true&theme=radical" alt="stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marktom&layout=compact&theme=radical" height="180em"/>
 </p>
 
 
