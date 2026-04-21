@@ -31,7 +31,7 @@ const bigmarkto = {
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total_Commits-97+-A78BFA?style=for-the-badge&labelColor=0D1117)
+![Commits](https://img.shields.io/badge/Total_Commits-100+-A78BFA?style=for-the-badge&labelColor=0D1117)
 ![Repos](https://img.shields.io/badge/Public_Repos-10+-818CF8?style=for-the-badge&labelColor=0D1117)
 ![Stars](https://img.shields.io/badge/Stars_Earned-⭐-6366F1?style=for-the-badge&labelColor=0D1117)
 ![PRs](https://img.shields.io/badge/Pull_Requests-✔-3B82F6?style=for-the-badge&labelColor=0D1117)
